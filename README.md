@@ -1,6 +1,6 @@
 # Blog page
 
-This is a simple Blog page which isnt meant to be used for anything real. It was the epitomy of my use of Flask (I wont be using it anymore). It was also my main practice with HTML and CSS.
+This is a simple Blog page which isnt meant to be used for anything real. It was the epitomy of my use of Flask (I wont be using it anymore). It was also my main practice with HTML and CSS. I made this project for a project in the 100 days of code given by replit, its a little wonky because I had to port it over from replit, the project was inspired by the project of the day for 100 days of code, however its not the same.
 
 # Author
 
