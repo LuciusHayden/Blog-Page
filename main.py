@@ -31,7 +31,7 @@ def blog01():
       page = page.replace("{source}", source)
   return page
 
-  fdaf
+  
 @app.route('/02')
 def blog02():
   number = "02"
